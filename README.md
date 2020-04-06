@@ -1,1 +1,3 @@
 # pythonLesson
+
+Class examples implemented 
